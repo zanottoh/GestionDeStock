@@ -1,0 +1,753 @@
+# depslib dependency file v1.0
+1717877443 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+
+1717865610 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1717874608 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\producto.h
+	<string>
+
+1717865619 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\archivoproducto.cpp
+	"ArchivoProducto.h"
+
+1717876730 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\archivoproducto.h
+	"Producto.h"
+
+1717877122 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\gestordeproducto.cpp
+	<iostream>
+	"GestorDeProducto.h"
+
+1717876730 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\gestordeproducto.h
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1717865619 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\archivoproducto.cpp
+	"ArchivoProducto.h"
+
+1717865619 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\archivoproducto.h
+	"Producto.h"
+
+1717874608 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\producto.h
+	<string>
+
+1717548725 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\gestordeproducto.cpp
+	<iostream>
+	"GestorDeProducto.h"
+
+1717860810 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\gestordeproducto.h
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1717548148 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1717865610 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1717866142 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1717866142 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\menuprincipal.h
+	"GestorDeProducto.h"
+
+1717874660 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<ctime>
+
+1717874368 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock_1\gestiondestock\fecha.h
+	<string>
+
+1717876015 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<ctime>
+
+1717874368 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\fecha.h
+	<string>
+
+1717866142 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1717866142 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\menuprincipal.h
+	"GestorDeProducto.h"
+
+1717878549 source:c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\venta.cpp
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Producto.h"
+
+1717879111 c:\users\david\desktop\proyecto manu, herni, bauti, david\gestiondestock\venta.h
+	<string>
+	"Fecha.h"
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719186056 source:c:\users\herna\onedrive\escritorio\gestiondestock\archivoproducto.cpp
+	"ArchivoProducto.h"
+
+1719183739 c:\users\herna\onedrive\escritorio\gestiondestock\archivoproducto.h
+	"Producto.h"
+
+1719183739 c:\users\herna\onedrive\escritorio\gestiondestock\producto.h
+	<string>
+
+1719182303 source:c:\users\herna\onedrive\escritorio\gestiondestock\fecha.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"Fecha.h"
+
+1718911739 c:\users\herna\onedrive\escritorio\gestiondestock\fecha.h
+	<string>
+
+1719271785 source:c:\users\herna\onedrive\escritorio\gestiondestock\gestordeproducto.cpp
+	<iostream>
+	"GestorDeProducto.h"
+
+1719167051 c:\users\herna\onedrive\escritorio\gestiondestock\gestordeproducto.h
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719273244 source:c:\users\herna\onedrive\escritorio\gestiondestock\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"ArchivoProducto.h"
+	<locale.h>
+
+1719186411 c:\users\herna\onedrive\escritorio\gestiondestock\menuprincipal.h
+	"GestorDeProducto.h"
+	"GestorDeVenta.h"
+	"MenuConfiguracion.h"
+
+1719203573 source:c:\users\herna\onedrive\escritorio\gestiondestock\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1718629661 source:c:\users\herna\onedrive\escritorio\gestiondestock\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1719173894 source:c:\users\herna\onedrive\escritorio\gestiondestock\venta.cpp
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Producto.h"
+
+1719183739 c:\users\herna\onedrive\escritorio\gestiondestock\venta.h
+	<cstring>
+	"Fecha.h"
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719183739 c:\users\herna\onedrive\escritorio\gestiondestock\archivoventa.h
+	"Venta.h"
+
+1719245726 source:c:\users\herna\onedrive\escritorio\gestiondestock\archivoventa.cpp
+	"ArchivoVenta.h"
+
+1719273201 source:c:\users\herna\onedrive\escritorio\gestiondestock\gestordeventa.cpp
+	<iostream>
+	"GestorDeVenta.h"
+	"ArchivoVenta.h"
+	"Venta.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"Producto.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"ArchivoCliente.h"
+	"ArchivoVendedor.h"
+	<iomanip>
+
+1719270838 c:\users\herna\onedrive\escritorio\gestiondestock\gestordeventa.h
+	"Venta.h"
+	"ArchivoVenta.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"ArchivoVendedor.h"
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"ArchivoCliente.h"
+	"Vendedor.h"
+
+1719243791 source:c:\users\herna\onedrive\escritorio\gestiondestock\cliente.cpp
+	"Cliente.h"
+	"Persona.h"
+	<cstring>
+
+1719243525 c:\users\herna\onedrive\escritorio\gestiondestock\cliente.h
+	"Persona.h"
+	<iostream>
+
+1719240894 c:\users\herna\onedrive\escritorio\gestiondestock\persona.h
+	<iostream>
+
+1719186036 c:\users\herna\onedrive\escritorio\gestiondestock\menuconfiguracion.h
+
+1719203521 source:c:\users\herna\onedrive\escritorio\gestiondestock\menuconfiguracion.cpp
+	<iostream>
+	"MenuConfiguracion.h"
+
+1719240815 source:c:\users\herna\onedrive\escritorio\gestiondestock\persona.cpp
+	<cstring>
+	"Persona.h"
+
+1719204039 source:c:\users\herna\onedrive\escritorio\gestiondestock\vendedores.cpp
+	"Vendedores.h"
+	"ArchivoVendedores.h"
+
+1719204039 c:\users\herna\onedrive\escritorio\gestiondestock\vendedores.h
+	"Persona.h"
+
+1719188338 source:c:\users\herna\onedrive\escritorio\gestiondestock\archivovendedores.cpp
+	"ArchivoVendedores.h"
+
+1719188171 c:\users\herna\onedrive\escritorio\gestiondestock\archivovendedores.h
+	"Vendedores.h"
+
+1719245879 source:c:\users\herna\onedrive\escritorio\gestiondestock\archivocliente.cpp
+	"ArchivoCliente.h"
+	"Cliente.h"
+
+1719199878 c:\users\herna\onedrive\escritorio\gestiondestock\archivocliente.h
+	"Cliente.h"
+
+1719238494 c:\users\herna\onedrive\escritorio\gestiondestock\archivovendedor.h
+	"Vendedor.h"
+
+1719242414 c:\users\herna\onedrive\escritorio\gestiondestock\vendedor.h
+	"Persona.h"
+
+1719242622 source:c:\users\herna\onedrive\escritorio\gestiondestock\vendedor.cpp
+	"Vendedor.h"
+	"ArchivoVendedor.h"
+
+1719242622 source:c:\users\herna\onedrive\escritorio\gestiondestock\archivovendedor.cpp
+	"ArchivoVendedor.h"
+
+1719437716 source:c:\users\david\desktop\gestiondestock\gestiondestock\archivocliente.cpp
+	"ArchivoCliente.h"
+	"Cliente.h"
+
+1719199878 c:\users\david\desktop\gestiondestock\gestiondestock\archivocliente.h
+	"Cliente.h"
+
+1719427134 c:\users\david\desktop\gestiondestock\gestiondestock\cliente.h
+	"Persona.h"
+	<iostream>
+
+1719240894 c:\users\david\desktop\gestiondestock\gestiondestock\persona.h
+	<iostream>
+
+1719278088 source:c:\users\david\desktop\gestiondestock\gestiondestock\archivoproducto.cpp
+	"ArchivoProducto.h"
+
+1719183739 c:\users\david\desktop\gestiondestock\gestiondestock\archivoproducto.h
+	"Producto.h"
+
+1719183739 c:\users\david\desktop\gestiondestock\gestiondestock\producto.h
+	<string>
+
+1719437838 source:c:\users\david\desktop\gestiondestock\gestiondestock\archivovendedor.cpp
+	"ArchivoVendedor.h"
+
+1719238494 c:\users\david\desktop\gestiondestock\gestiondestock\archivovendedor.h
+	"Vendedor.h"
+
+1719242414 c:\users\david\desktop\gestiondestock\gestiondestock\vendedor.h
+	"Persona.h"
+
+1719427375 source:c:\users\david\desktop\gestiondestock\gestiondestock\cliente.cpp
+	"Cliente.h"
+	"Persona.h"
+	<cstring>
+
+1719182303 source:c:\users\david\desktop\gestiondestock\gestiondestock\fecha.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"Fecha.h"
+
+1718911739 c:\users\david\desktop\gestiondestock\gestiondestock\fecha.h
+	<string>
+
+1719438759 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestordeproducto.cpp
+	<iostream>
+	"GestorDeProducto.h"
+
+1719438297 c:\users\david\desktop\gestiondestock\gestiondestock\gestordeproducto.h
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719442327 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestordeventa.cpp
+	<iostream>
+	"GestorDeVenta.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"Cliente.h"
+	"ArchivoCliente.h"
+	"ArchivoVendedor.h"
+	<iomanip>
+
+1719270838 c:\users\david\desktop\gestiondestock\gestiondestock\gestordeventa.h
+	"Venta.h"
+	"ArchivoVenta.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"ArchivoVendedor.h"
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"ArchivoCliente.h"
+	"Vendedor.h"
+
+1719183739 c:\users\david\desktop\gestiondestock\gestiondestock\venta.h
+	<cstring>
+	"Fecha.h"
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719183739 c:\users\david\desktop\gestiondestock\gestiondestock\archivoventa.h
+	"Venta.h"
+
+1719273244 source:c:\users\david\desktop\gestiondestock\gestiondestock\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"ArchivoProducto.h"
+	<locale.h>
+
+1719186411 c:\users\david\desktop\gestiondestock\gestiondestock\menuprincipal.h
+	"GestorDeProducto.h"
+	"GestorDeVenta.h"
+	"MenuConfiguracion.h"
+
+1719278002 c:\users\david\desktop\gestiondestock\gestiondestock\menuconfiguracion.h
+	"Venta.h"
+	"ArchivoVenta.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"ArchivoVendedor.h"
+	"ArchivoCliente.h"
+	"Cliente.h"
+	"ArchivoCliente.h"
+	"Vendedor.h"
+
+1719424033 source:c:\users\david\desktop\gestiondestock\gestiondestock\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1719240815 source:c:\users\david\desktop\gestiondestock\gestiondestock\persona.cpp
+	<cstring>
+	"Persona.h"
+
+1718629661 source:c:\users\david\desktop\gestiondestock\gestiondestock\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1719242622 source:c:\users\david\desktop\gestiondestock\gestiondestock\vendedor.cpp
+	"Vendedor.h"
+	"ArchivoVendedor.h"
+
+1719173894 source:c:\users\david\desktop\gestiondestock\gestiondestock\venta.cpp
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Producto.h"
+
+1719437883 source:c:\users\david\desktop\gestiondestock\gestiondestock\archivoventa.cpp
+	"ArchivoVenta.h"
+	<iostream>
+
+1719439836 source:c:\users\david\desktop\gestiondestock\gestiondestock\menuconfiguracion.cpp
+	<iostream>
+	"ArchivoVenta.h"
+	"ArchivoProducto.h"
+	"MenuConfiguracion.h"
+
+1719451379 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\archivocliente.cpp
+	"ArchivoCliente.h"
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\archivocliente.h
+	"Cliente.h"
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\cliente.h
+	"Persona.h"
+	<iostream>
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\persona.h
+	<iostream>
+
+1719442455 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\archivoproducto.cpp
+	"ArchivoProducto.h"
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\archivoproducto.h
+	"Producto.h"
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\producto.h
+	<string>
+
+1719446893 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\archivovendedor.cpp
+	"ArchivoVendedor.h"
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\archivovendedor.h
+	"Vendedor.h"
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\vendedor.h
+	"Persona.h"
+
+1719442455 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\archivoventa.cpp
+	"ArchivoVenta.h"
+	<iostream>
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\archivoventa.h
+	"Venta.h"
+
+1719451379 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\venta.h
+	<cstring>
+	"Fecha.h"
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\fecha.h
+	<string>
+
+1719451411 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\cliente.cpp
+	"Cliente.h"
+	<cstring>
+
+1719442455 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\fecha.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"Fecha.h"
+
+1719442455 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\gestordeproducto.cpp
+	<iostream>
+	"GestorDeProducto.h"
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\gestordeproducto.h
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719451442 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\gestordeventa.cpp
+	<iostream>
+	"GestorDeVenta.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoVendedor.h"
+	<iomanip>
+
+1719451659 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\gestordeventa.h
+	"ArchivoVenta.h"
+	"GestorDeProducto.h"
+	"ArchivoVendedor.h"
+	"ArchivoCliente.h"
+
+1719451460 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"GestorDeProducto.h"
+	"ArchivoProducto.h"
+	<locale.h>
+
+1719442455 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\menuprincipal.h
+	"GestorDeProducto.h"
+	"GestorDeVenta.h"
+	"MenuConfiguracion.h"
+
+1719451748 c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\menuconfiguracion.h
+	"ArchivoVenta.h"
+	"GestorDeProducto.h"
+	"ArchivoVendedor.h"
+	"ArchivoCliente.h"
+
+1719451269 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\menuconfiguracion.cpp
+	<iostream>
+	"ArchivoVenta.h"
+	"ArchivoProducto.h"
+	"MenuConfiguracion.h"
+
+1719442455 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1719442455 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\persona.cpp
+	<cstring>
+	"Persona.h"
+
+1719442455 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1719451531 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\vendedor.cpp
+	"Vendedor.h"
+
+1719451582 source:c:\users\david\desktop\gestiondestock\gestiondestock\gestiondestock\venta.cpp
+	<cstring>
+	"Venta.h"
+	"Producto.h"
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivocliente.cpp
+	"ArchivoCliente.h"
+
+1719452197 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivocliente.h
+	"Cliente.h"
+
+1719452197 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\cliente.h
+	"Persona.h"
+	<iostream>
+
+1719452197 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\persona.h
+	<iostream>
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivoproducto.cpp
+	"ArchivoProducto.h"
+
+1719452197 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivoproducto.h
+	"Producto.h"
+
+1719521166 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\producto.h
+	<string>
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivovendedor.cpp
+	"ArchivoVendedor.h"
+
+1719452197 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivovendedor.h
+	"Vendedor.h"
+
+1719513011 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\vendedor.h
+	"Persona.h"
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivoventa.cpp
+	"ArchivoVenta.h"
+	<iostream>
+
+1719452197 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivoventa.h
+	"Venta.h"
+
+1719521166 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\venta.h
+	<cstring>
+	"Fecha.h"
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719452197 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\fecha.h
+	<string>
+
+1719504090 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\cliente.cpp
+	"Cliente.h"
+	<cstring>
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\fecha.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"Fecha.h"
+
+1719513011 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestordeproducto.cpp
+	<iostream>
+	"GestorDeProducto.h"
+
+1719501523 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestordeproducto.h
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719521201 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestordeventa.cpp
+	<iostream>
+	"GestorDeVenta.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoVendedor.h"
+	<iomanip>
+
+1719519556 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestordeventa.h
+	"ArchivoVenta.h"
+	"GestorDeProducto.h"
+	"ArchivoVendedor.h"
+	"ArchivoCliente.h"
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"GestorDeProducto.h"
+	"ArchivoProducto.h"
+	<locale.h>
+
+1719452197 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\menuprincipal.h
+	"GestorDeProducto.h"
+	"GestorDeVenta.h"
+	"MenuConfiguracion.h"
+
+1719452197 c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\menuconfiguracion.h
+	"ArchivoVenta.h"
+	"GestorDeProducto.h"
+	"ArchivoVendedor.h"
+	"ArchivoCliente.h"
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\menuconfiguracion.cpp
+	<iostream>
+	"ArchivoVenta.h"
+	"ArchivoProducto.h"
+	"MenuConfiguracion.h"
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1719504102 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\persona.cpp
+	<cstring>
+	"Persona.h"
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1719513102 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\vendedor.cpp
+	"Vendedor.h"
+
+1719452197 source:c:\users\bauti\desktop\gestiondestock\gestiondestock\gestiondestock\gestiondestock\venta.cpp
+	<cstring>
+	"Venta.h"
+	"Producto.h"
+
+1719452197 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivocliente.cpp
+	"ArchivoCliente.h"
+
+1719452197 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivocliente.h
+	"Cliente.h"
+
+1719452197 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\cliente.h
+	"Persona.h"
+	<iostream>
+
+1719452197 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\persona.h
+	<iostream>
+
+1719452197 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivoproducto.cpp
+	"ArchivoProducto.h"
+
+1719452197 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivoproducto.h
+	"Producto.h"
+
+1719521166 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\producto.h
+	<string>
+
+1719452197 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivovendedor.cpp
+	"ArchivoVendedor.h"
+
+1719452197 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivovendedor.h
+	"Vendedor.h"
+
+1719513011 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\vendedor.h
+	"Persona.h"
+
+1719452197 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivoventa.cpp
+	"ArchivoVenta.h"
+	<iostream>
+
+1719452197 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\archivoventa.h
+	"Venta.h"
+
+1719521166 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\venta.h
+	<cstring>
+	"Fecha.h"
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719452197 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\fecha.h
+	<string>
+
+1719504090 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\cliente.cpp
+	"Cliente.h"
+	<cstring>
+
+1719452197 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\fecha.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"Fecha.h"
+
+1719513011 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestordeproducto.cpp
+	<iostream>
+	"GestorDeProducto.h"
+
+1719501523 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestordeproducto.h
+	"Producto.h"
+	"ArchivoProducto.h"
+
+1719521541 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestordeventa.cpp
+	<iostream>
+	"GestorDeVenta.h"
+	"GestorDeProducto.h"
+	"Fecha.h"
+	"ArchivoCliente.h"
+	"ArchivoVendedor.h"
+	<iomanip>
+
+1719519556 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestordeventa.h
+	"ArchivoVenta.h"
+	"GestorDeProducto.h"
+	"ArchivoVendedor.h"
+	"ArchivoCliente.h"
+
+1719620559 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"GestorDeProducto.h"
+	"ArchivoProducto.h"
+	<locale.h>
+
+1719452197 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\menuprincipal.h
+	"GestorDeProducto.h"
+	"GestorDeVenta.h"
+	"MenuConfiguracion.h"
+
+1719452197 c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\menuconfiguracion.h
+	"ArchivoVenta.h"
+	"GestorDeProducto.h"
+	"ArchivoVendedor.h"
+	"ArchivoCliente.h"
+
+1719686219 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\menuconfiguracion.cpp
+	<iostream>
+	"ArchivoVenta.h"
+	"ArchivoProducto.h"
+	"MenuConfiguracion.h"
+
+1719686058 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1719504102 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\persona.cpp
+	<cstring>
+	"Persona.h"
+
+1719452197 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1719513102 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\vendedor.cpp
+	"Vendedor.h"
+
+1719452197 source:c:\users\herna\downloads\gestiondestock\gestiondestock\gestiondestock\gestiondestock\gestiondestock\venta.cpp
+	<cstring>
+	"Venta.h"
+	"Producto.h"
+
